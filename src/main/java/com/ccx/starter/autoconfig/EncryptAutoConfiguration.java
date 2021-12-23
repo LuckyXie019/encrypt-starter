@@ -13,5 +13,5 @@ import org.springframework.context.annotation.Configuration;
 @Configuration
 @ComponentScan("com.ccx.starter")
 public class EncryptAutoConfiguration {
-    
+
 }
