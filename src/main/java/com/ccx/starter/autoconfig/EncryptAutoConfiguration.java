@@ -4,7 +4,7 @@ import org.springframework.context.annotation.ComponentScan;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * @author YLS
+ * @author xcc
  * @Title: 自动配置
  * @Package
  * @Description:

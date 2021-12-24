@@ -1,7 +1,7 @@
 package com.ccx.starter.model;
 
 /**
- * @author YLS
+ * @author xcc
  * @Title: 返回格式
  * @Package
  * @Description:

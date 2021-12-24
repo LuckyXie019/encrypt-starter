@@ -4,7 +4,7 @@ import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 /**
- * @author YLS
+ * @author xcc
  * @Title:
  * @Package
  * @Description: 用户自定义密钥
